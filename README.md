@@ -1,1 +1,0 @@
-# react_stripe_checkout
